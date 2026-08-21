@@ -45,6 +45,26 @@ State the year they started and the source that establishes it. If you cannot
 verify tenure, the company does not go in the digest. Do not estimate, infer
 from company founding date, or guess.
 
+WHERE TENURE IS ACTUALLY STATED — work these first, in this order:
+  1. Business-journal recognition coverage: Family Owned Business Awards,
+     anniversary features, founder profiles, "most admired" lists. These name
+     the leader and the years in plain text, because that is the point of the
+     article.
+  2. The company's own About / Our Story / History page.
+  3. Chamber of commerce and trade-association member profiles, and industry
+     press quoting the owner with a "since <year>" attribution.
+  4. California Secretary of State business filings — a Statement of
+     Information lists officers by name, so the same name on both an old and
+     a recent filing is real evidence of continuity. Use it if you can reach
+     it; it sits behind a search form and may not be retrievable.
+
+LINKEDIN IS NOT A TENURE SOURCE. Logged-out profiles show a person's role,
+title, and employer but strip the date ranges out of the experience section.
+Use LinkedIn to confirm who currently holds the seat and how their name is
+spelled — never to establish how long they have held it. Do not infer a
+tenure year from a LinkedIn profile, and do not report a tenure figure whose
+only support is LinkedIn. You have no login and must not attempt one.
+
 Among companies that clear the gate, rank by signal strength:
   1. Succession or owner-exit news — founder steps back, outside CEO/GM hired,
      next generation publicly declines to take over.
